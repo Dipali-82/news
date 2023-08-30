@@ -1,0 +1,8 @@
+{
+  "short_name": "Alikidi.com",
+  "name": "Alikidi.com",
+  "start_url": "alikidi.com/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
